@@ -1,0 +1,19 @@
+{
+  "name": "monu-bot",
+  "version": "8.0.0",
+  "description": "MONU V8 + Telegram Bot",
+  "main": "monu.js",
+  "type": "module",
+  "scripts": {
+    "start": "node monu.js"
+  },
+  "dependencies": {
+    "@andresaya/edge-tts": "^1.1.2",
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "^6.7.0",
+    "canvas": "^3.1.0",
+    "pino": "^9.0.0",
+    "telegraf": "^4.16.3",
+    "twemoji-parser": "^14.0.0"
+  }
+}
