@@ -1,7 +1,6 @@
 {
   "name": "monu-bot",
   "version": "8.0.0",
-  "description": "MONU V8 + Telegram Bot",
   "main": "monu.js",
   "type": "module",
   "scripts": {
